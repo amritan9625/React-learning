@@ -1,6 +1,6 @@
 const parent = React.createElement("div", {id : "parent"}, 
     React.createElement("div", {id: "child"}, 
-        React.createElement("h1", {}, "Hello, I am a h1 tag..")
+        React.createElement("h1", {}, "Hello, I am a h1 ")
     )
 )
 
